@@ -1,0 +1,4 @@
+OPENAI_KEY = '' # Insert your OpenAI API key here
+PLANNING_AGENT_MODEL = "gpt-4o"
+ACTION_AGENT_MODEL = "gpt-4o"
+REFLECTION_AGENT_MODEL = "gpt-4o"
